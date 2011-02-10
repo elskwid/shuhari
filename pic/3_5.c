@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main(void)
+int
+main(void)
 {
   int value1, value2, sum;
 

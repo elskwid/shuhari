@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main(void)
+int
+main(void)
 {
   printf("Testing...");
   printf("....1");

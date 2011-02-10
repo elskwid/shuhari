@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main(void)
+int
+main(void)
 {
   printf("In C, lowercase letters are significant.\n");
   printf("main is where the program execution begins.\n");
