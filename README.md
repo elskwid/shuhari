@@ -1,7 +1,7 @@
 Etymology (from [Wikipedia][1])
 =========
 
-== Shuhari roughly translates to "first learn, then detach, and finally transcend."
+## Shuhari roughly translates to "first learn, then detach, and finally transcend."
 
 * shu (守) "protect", "obey" — traditional wisdom — learning fundamentals, techniques, heuristics, proverbs
 
